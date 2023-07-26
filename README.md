@@ -1,3 +1,4 @@
+![image](https://github.com/FarzadMalik/FNIST_with_Keras_CNN_no_regularization_then_regularization/assets/107833662/807bd2a9-8e1e-4d77-a69e-029f9d28dc57)
 # Fashion MNIST CNN with Regularization and Data Augmentation
 
 This repository contains code for building and training a Convolutional Neural Network (CNN) on the Fashion MNIST dataset using TensorFlow's Keras API. The CNN model is designed to classify 10 different fashion items.
